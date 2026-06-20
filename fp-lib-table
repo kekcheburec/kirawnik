@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "pins") (type "KiCad") (uri "${KIPRJMOD}/footprints/pins.pretty") (options "") (descr ""))
+	(lib (name "TS-1088R-02526") (type "KiCad") (uri "${KIPRJMOD}/footprints/TS-1088R-02526.pretty") (options "") (descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Solid_State_Relay")(type "KiCad")(uri "${KIPRJMOD}/libs/Solid_State_Relay.kicad_sym")(options "")(descr ""))
+)
